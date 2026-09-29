@@ -385,6 +385,12 @@ The most relevant chunks are provided to Gemini as context.
 Gemini generates an answer based on the retrieved knowledge-base information.
 
 ---
+## UI Interface
+<img width="995" height="575" alt="Screenshot 2026-09-29 115453" src="https://github.com/user-attachments/assets/1f0e2351-1784-4fb2-9b03-44f34ffc6885" />
+
+<img width="975" height="420" alt="Screenshot 2026-09-29 112834" src="https://github.com/user-attachments/assets/732eedff-9869-4ffd-9007-60771808b463" />
+
+--- 
 
 ## ⚠️ API Quota
 
